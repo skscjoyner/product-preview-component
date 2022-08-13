@@ -34,7 +34,7 @@ body {
 .price {
   display: flex;
   align-items: center;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 .sale {
@@ -139,7 +139,7 @@ button {
   }
 
   .container .price {
-    margin-bottom: 1rem;
+    margin-bottom: 4rem;
   }
 
   picture img {
